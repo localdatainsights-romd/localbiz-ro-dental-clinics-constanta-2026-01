@@ -36,7 +36,19 @@ Available on **Lemon Squeezy**:
 
 ---
 
+### Notes
+
+When opening the CSV file in Excel, leading zeros may be removed automatically.  
+Use the `.xlsx` version or import the following columns as **Text**:
+
+- `phones_e164`
+- `postcode_digits`
+- `entity_id`
+
+---
+
 ### Contact
 **Local Data Insights**  
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)  
 Generated automatically on ****
+
