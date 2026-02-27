@@ -4,7 +4,7 @@
   <img src="img/csv_preview.png" alt="Previzualizare set de date" width="85%">
 </p>
 
-Date curate și structurate despre **clinicile stomatologice** din **Constanța, România**,  
+Date curate și structurate despre **clinicile stomatologice** din **Constanta, RO**,  
 colectate și procesate de Local Data Insights (ediția RO–MD).
 
 ---
@@ -51,4 +51,5 @@ Folosește varianta `.xlsx` sau importă următoarele coloane ca **Text**:
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)
 
 > Generat automat la ****.
+
 
