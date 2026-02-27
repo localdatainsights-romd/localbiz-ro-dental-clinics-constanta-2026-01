@@ -43,7 +43,6 @@ Use the `.xlsx` version or import the following columns as **Text**:
 
 - `phones_e164`
 - `postcode_digits`
-- `entity_id`
 
 ---
 
@@ -51,4 +50,5 @@ Use the `.xlsx` version or import the following columns as **Text**:
 **Local Data Insights**  
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)  
 Generated automatically on ****
+
 
