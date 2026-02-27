@@ -38,11 +38,8 @@ Available on **Lemon Squeezy**:
 
 ### Notes
 
-When opening the CSV file in Excel, leading zeros may be removed automatically.  
-Use the `.xlsx` version or import the following columns as **Text**:
-
-- `phones_e164`
-- `postcode_digits`
+When opening the CSV file in Excel, postal codes may lose leading zeros.  
+Use the `.xlsx` version or import `postcode_digits` as **Text**.
 
 ---
 
@@ -50,5 +47,6 @@ Use the `.xlsx` version or import the following columns as **Text**:
 **Local Data Insights**  
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)  
 Generated automatically on ****
+
 
 
