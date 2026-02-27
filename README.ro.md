@@ -4,7 +4,7 @@
   <img src="img/csv_preview.png" alt="Previzualizare set de date" width="85%">
 </p>
 
-Date curate și structurate despre companiile din domeniul **Dental Clinics in Romania** din **Constanta, RO**,  
+Date curate și structurate despre **clinicile stomatologice** din **Constanța, România**,  
 colectate și procesate de Local Data Insights (ediția RO–MD).
 
 ---
@@ -35,10 +35,14 @@ Disponibil pe **Lemon Squeezy**:
 
 ---
 
-### Note
-La deschiderea fișierului CSV în Excel, zerourile inițiale pot fi pierdute.  
-Folosește varianta `.xlsx` sau importă coloanele  
-`phones_e164`, `postcode_digits` și `entity_id` ca **Text**.
+### Notes
+
+La deschiderea fișierului CSV în Excel, zerourile inițiale pot fi eliminate automat.  
+Folosește varianta `.xlsx` sau importă următoarele coloane ca **Text**:
+
+- `phones_e164`
+- `postcode_digits`
+- `entity_id`
 
 ---
 
@@ -47,3 +51,4 @@ Folosește varianta `.xlsx` sau importă coloanele
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)
 
 > Generat automat la ****.
+
