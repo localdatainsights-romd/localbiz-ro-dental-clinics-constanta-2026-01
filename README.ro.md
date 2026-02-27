@@ -42,7 +42,6 @@ Folosește varianta `.xlsx` sau importă următoarele coloane ca **Text**:
 
 - `phones_e164`
 - `postcode_digits`
-- `entity_id`
 
 ---
 
@@ -51,5 +50,6 @@ Folosește varianta `.xlsx` sau importă următoarele coloane ca **Text**:
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)
 
 > Generat automat la ****.
+
 
 
